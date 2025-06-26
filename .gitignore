@@ -9,6 +9,9 @@ env/
 ENV/
 .venv/
 
+# Notes and reminders
+notes.txt
+
 # Python
 __pycache__/
 *.py[cod]
